@@ -1,8 +1,7 @@
 # Dairy-Farm-MIS-Dashboard
 End-to-end Dairy Farm MIS System — Excel reporting + Power BI dashboard for 100-cow farm operations
 
-# Dairy Farm MIS Dashboard — Modasa Operations
-
+# Dairy Farm MIS Dashboard
 ## Project Overview
 End-to-end MIS system built for a 100-cow dairy farm covering daily operations across milk production, veterinary health, breeding, and feed cost tracking — directly aligned with real farm management reporting requirements.
 
